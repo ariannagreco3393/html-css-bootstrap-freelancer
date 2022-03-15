@@ -1,0 +1,18 @@
+/* Colors */
+
+:root {
+--green: rgba(26, 188, 156, 1);
+--darkblue: rgba(44, 62, 80, 1);
+--lightblue: rgba(58, 84, 109, 1);
+--white: rgba(255, 255, 255, 1);
+
+}
+
+.debug [class^="col"] {
+    background-color: aquamarine;
+    height: 100px;
+}
+
+.hero {
+    height: 500px;
+}
