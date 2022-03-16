@@ -9,12 +9,18 @@
 }
 
 .debug [class^="col"] {
-    background-color: aquamarine;
-    height: 100px;
+    /* background-color: aquamarine; */
+    /* height: 100px; */
+}
+
+
+.bg_darkblue {
+    background-color: var(--darkblue);
 }
 
 .hero {
     height: 500px;
+    background-color: var(--green);
 }
 
 .about {
@@ -24,3 +30,6 @@
 .contact {
     height: 500px;
 }
+
+
+
