@@ -16,9 +16,16 @@
 .bg_darkblue {
     background-color: var(--darkblue);
 }
+.bg_lightblue {
+    background-color: var(--lightblue);
+}
 
 .bg_green {
     background-color: var(--green);
+}
+
+.text_color {
+    color: var(--green);
 }
 
 .bg_white {
@@ -43,7 +50,8 @@
     height: 500px;
 }
 
-.about .fa-download {
+.about .fa-download,
+footer .fa-facebook-f {
     color: var(--white);
 }
 
