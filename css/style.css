@@ -22,9 +22,10 @@
     background-color: var(--green);
 }
 
-.hero {
-    height: 500px;
-    background-color: var(--green);
+.line {
+    width: 150px;
+    height: 5px;
+    background-color: var(--white);
 }
 
 .about {
