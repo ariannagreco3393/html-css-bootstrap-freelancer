@@ -18,6 +18,10 @@
     background-color: var(--darkblue);
 }
 
+.bg_green {
+    background-color: var(--green);
+}
+
 .hero {
     height: 500px;
     background-color: var(--green);
