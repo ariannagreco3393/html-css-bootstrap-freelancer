@@ -21,10 +21,17 @@
     background-color: var(--green);
 }
 
+.bg_white {
+    background-color: var(--white);
+}
+
 .line {
     width: 150px;
     height: 5px;
-    background-color: var(--white);
+}
+
+.portfolio .fa-star {
+    color: var(--darkblue);
 }
 
 .border_radius_15 {
@@ -33,6 +40,10 @@
 
 .about {
     height: 500px;
+}
+
+.about .fa-download {
+    color: var(--white);
 }
 
 .contact {
