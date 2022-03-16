@@ -10,7 +10,6 @@
 
 .debug [class^="col"] {
     /* background-color: aquamarine; */
-    /* height: 100px; */
 }
 
 
@@ -26,6 +25,10 @@
     width: 150px;
     height: 5px;
     background-color: var(--white);
+}
+
+.border_radius_15 {
+    border-radius: 15px;
 }
 
 .about {
