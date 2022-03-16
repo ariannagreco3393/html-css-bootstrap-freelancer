@@ -30,7 +30,8 @@
     height: 5px;
 }
 
-.portfolio .fa-star {
+.portfolio .fa-star,
+.contact .fa-star {
     color: var(--darkblue);
 }
 
@@ -46,9 +47,20 @@
     color: var(--white);
 }
 
-.contact {
-    height: 500px;
+.form-control {
+    border-top: 0;
+    border-right: 0;
+    border-left: 0;
+    border-bottom: 1px solid grey;
+    border-radius: 0;
+    padding: 0;
 }
+
+
+.text_area_height {
+    height: 100px;
+}
+
 
 
 
